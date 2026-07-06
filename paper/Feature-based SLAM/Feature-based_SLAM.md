@@ -32,6 +32,10 @@
   
 # MonoSLAM Real-Time Single Camera SLAM
 
+- preliminaries
+    - 卡尔曼滤波 and 扩展卡尔曼滤波
+    - 
+
 1. SLAM and MonoSLAM
    - SLAM is defined as the problem of a moving sensor platform constructing the representation of its environment while concurrently estimate the its geo-motion.
    - MonoSLAM 是使用单目摄像头的实时定位和建图方法。
